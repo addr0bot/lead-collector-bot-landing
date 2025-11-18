@@ -5,6 +5,17 @@
   <img src="https://img.shields.io/badge/Python-3.11+-green?style=for-the-badge&logo=python" alt="Python 3.11+">
   <img src="https://img.shields.io/badge/Google-Sheets-orange?style=for-the-badge&logo=google-sheets" alt="Google Sheets">
   <img src="https://img.shields.io/badge/Docker-Ready-blue?style=for-the-badge&logo=docker" alt="Docker Ready">
+  <br><br>
+  <img src="https://img.shields.io/badge/Цена-от_2990₽-brightgreen?style=for-the-badge&logo=ruble-sign" alt="Price">
+  <img src="https://img.shields.io/badge/Скидка_30%25_до_конца_месяца-red?style=for-the-badge&logo=hotjar" alt="Discount">
+</div>
+
+## 🔥 АКЦИЯ: СКИДКА 30% ДО КОНЦА МЕСЯЦА!
+
+<div align="center">
+  <h2>🎯 Автоматизируйте сбор заявок в Telegram!</h2>
+  <p><strong>3-шаговый опрос → Google Sheets → Уведомления администратору</strong></p>
+  <p>🚀 <strong>Окупается за 1-2 недели!</strong></p>
 </div>
 
 ## 📋 Превью
@@ -14,6 +25,21 @@
     <h2>🎬 Демонстрация работы бота</h2>
     <p>Посмотрите, как бот собирает заявки в реальном времени</p>
     <p><strong>📱 Попробовать демо: <a href="https://t.me/lead_collec_bot" style="color: #FFD700;">@lead_collec_bot</a></strong></p>
+    <br>
+    <p style="font-size: 18px; margin: 10px 0;"><strong>💬 Написать в Telegram: <a href="https://t.me/leadcollector_support" style="color: #FFD700;">@leadcollector_support</a></strong></p>
+  </div>
+</div>
+
+---
+
+<div align="center">
+  <h2>⚡ Что получите через 10 минут после оплаты:</h2>
+  <div style="display: inline-block; text-align: left; background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0;">
+    <p>✅ <strong>Полный исходный код</strong> бота</p>
+    <p>✅ <strong>Инструкция по настройке</strong> (на русском)</p>
+    <p>✅ <strong>30 дней бесплатной поддержки</strong></p>
+    <p>✅ <strong>Шаблоны Google Sheets</strong></p>
+    <p>✅ <strong>Консультация по запуску</strong> (30 мин)</p>
   </div>
 </div>
 
@@ -278,9 +304,27 @@ docker-compose up -d
 
 ---
 
-<div align="center">
-  <h2>🎉 Начните собирать заявки автоматически уже сегодня!</h2>
-  <p><strong>Lead Collector Bot - ваш помощник в продажах 🚀</strong></p>
+<div align="center" style="background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%); color: white; padding: 40px; border-radius: 15px; margin: 30px 0;">
+  <h1>🎯 ГОТОВЫ НАЧАТЬ?</h1>
+  <h2>💰 Всего 2,990 ₽ вместо 3,990 ₽</h2>
+  <p style="font-size: 18px; margin: 20px 0;">⏰ <strong>Акция действует до конца месяца!</strong></p>
+
+  <div style="background: rgba(255,255,255,0.2); padding: 20px; border-radius: 10px; margin: 20px 0;">
+    <h3>🚀 Что получите ПРЯМО СЕЙЧАС:</h3>
+    <p>✅ Исходный код бота</p>
+    <p>✅ Настройка за 10 минут</p>
+    <p>✅ 30 дней поддержки</p>
+    <p>✅ Окупаемость за 1-2 недели</p>
+  </div>
+
+  <br>
+  <h2>💬 <a href="https://t.me/leadcollector_support" style="color: #FFD700; text-decoration: none;">НАПИСАТЬ МНЕ В TELEGRAM</a></h2>
+  <p style="font-size: 16px;">Ответ в течение 2 часов • Персональный менеджер</p>
 </div>
+
+---
+
+<div align="center">
+  <p><strong>Lead Collector Bot - ваш помощник в продажах 🚀</strong></p>
   <p>Преобразуйте ваш Telegram в мощный инструмент продаж</p>
 </div>
